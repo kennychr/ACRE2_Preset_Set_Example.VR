@@ -1,0 +1,12 @@
+//-------------------------On Load
+
+author = PFC.Christiansen;					// Visible when loading mission
+onLoadName = "ACRE2 Setter and changer";						// Visible when loading mission
+
+//------------------------- Configs
+class CfgFunctions
+{
+		#include "Functions\AW_functions.hpp"
+};
+
+
